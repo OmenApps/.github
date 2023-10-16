@@ -1,2 +1,3 @@
-# .github
-Public Profile
+# Omen Apps
+
+Django web application development, mentoring, and consulting.
